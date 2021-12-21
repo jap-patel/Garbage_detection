@@ -54,7 +54,7 @@ we used google colab to run our yolov5 model to run it with gpu
    ```sh
    pip install -r requirements.txt
    ```
-3. Enter this command to detect the vehicle images
+3. Enter this command to detect the garbage images
    ```js
    !python detect.py --weights bestpla.pt --source path/to/folder/orImage
    ```
