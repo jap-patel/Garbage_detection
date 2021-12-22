@@ -70,7 +70,7 @@ we used google colab to run our yolov5 model to run it with gpu
 * [google colab](https://colab.research.google.com/drive/1Ymz1JBISuL9pDHKpD70IQahm-WxIltkn) will be helpful to run the project 
 
 
-<img src="runs/detect/exp10/amb.jpg" alt="Ambulance detection image" width="400" height="400"/>   <img src="runs/detect/exp16/Firetruck.jpg" alt="Firebrigade detection image" width="400" height="400"/>
+<img src="runs/detect/exp6/pla.jpg" alt="plastic waste detection image" width="600" height="600"/>   
 
 <!-- LICENSE -->
 ## License
